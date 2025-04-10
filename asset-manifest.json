@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/ait-asg3/static/css/main.25fd7eaa.css",
-    "main.js": "/ait-asg3/static/js/main.d318c71a.js",
-    "index.html": "/ait-asg3/index.html",
-    "main.25fd7eaa.css.map": "/ait-asg3/static/css/main.25fd7eaa.css.map",
-    "main.d318c71a.js.map": "/ait-asg3/static/js/main.d318c71a.js.map"
+    "main.css": "/static/css/main.25fd7eaa.css",
+    "main.js": "/static/js/main.d318c71a.js",
+    "index.html": "/index.html",
+    "main.25fd7eaa.css.map": "/static/css/main.25fd7eaa.css.map",
+    "main.d318c71a.js.map": "/static/js/main.d318c71a.js.map"
   },
   "entrypoints": [
     "static/css/main.25fd7eaa.css",
